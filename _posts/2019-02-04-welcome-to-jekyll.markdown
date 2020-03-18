@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
-categories: [ Jekyll ]
+title:  "Welcome to Cin Cin 2020!"
+categories: [ 公告 ]
 image: assets/images/demo1.jpg
 ---
 
@@ -14,11 +14,5 @@ image: assets/images/demo1.jpg
 | Tom3  | CTO   | tom3    | yyyy |
 | Tom4  | CTO   | tom4    | yyyy |
 
-
-{% highlight ruby %}
-xxxxxxxxxx
-{% endhighlight %}
-
-[jekyll-docs]: https://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll
 [jekyll-talk]: https://talk.jekyllrb.com/
