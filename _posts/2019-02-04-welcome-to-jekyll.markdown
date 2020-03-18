@@ -17,6 +17,14 @@ Oranges | A spherical, orange-colored sweet ... | Fruit    | Navel
 <div class="datatable-end"></div>
 
 
+
+{: .table .table-striped}
+| Name  | Roles | User ID |
+| ----- | ----- | ------- | 
+| Micky | CEO   | micky   |
+| Tom   | CTO   | tom     |
+
+
 {% highlight ruby %}
 xxxxxxxxxx
 {% endhighlight %}
