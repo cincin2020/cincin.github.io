@@ -5,24 +5,14 @@ categories: [ Jekyll ]
 image: assets/images/demo1.jpg
 ---
 
-<div class="datatable-begin"></div>
-
-Food    | Description                           | Category | Sample type
-------- | ------------------------------------- | -------- | -----------
-Apples  | A small, somewhat round ...           | Fruit    | Fuji
-Bananas | A long and curved, often-yellow ...   | Fruit    | Snow
-Kiwis   | A small, hairy-skinned sweet ...      | Fruit    | Golden
-Oranges | A spherical, orange-colored sweet ... | Fruit    | Navel
-
-<div class="datatable-end"></div>
-
-
-
 {: .table .table-striped}
-| Name  | Roles | User ID |
-| ----- | ----- | ------- | 
-| Micky | CEO   | micky   |
-| Tom   | CTO   | tom     |
+| Name  | Roles | User ID | Data |
+| ----- | ----- | ------- | ---- |
+| Micky | CEO   | micky   | xxxx |
+| Tom1  | CTO   | tom1    | yyyy |
+| Tom2  | CTO   | tom2    | yyyy |
+| Tom3  | CTO   | tom3    | yyyy |
+| Tom4  | CTO   | tom4    | yyyy |
 
 
 {% highlight ruby %}
